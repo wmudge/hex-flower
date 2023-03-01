@@ -1,0 +1,17 @@
+{
+  "name": "hex-flower",
+  "version": "1.0.0",
+  "description": "Hex Flower game engine",
+  "type": "module",
+  "main": "hex-flower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "hex flower"
+  ],
+  "author": "Webster Mudge",
+  "license": "MIT"
+}
