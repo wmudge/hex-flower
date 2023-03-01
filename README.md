@@ -1,8 +1,8 @@
 # Hex Flower Game Engine
 
+The Hex Flower game engine is a random number generator using a 19-cell hex grid. The engine keeps track of the last visited hex/number and is supplied several rules for choosing the next hex/number and what to do if this new direction leaves the hex grid.
 
-
-Derived from [Goblin's Henchman](https://goblinshenchman.wordpress.com).
+Derived from the excellent work of [Goblin's Henchman](https://goblinshenchman.wordpress.com).
 
 # Install
 
